@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06882a60-e26b-4ba7-9bad-3b30ccaf8a49" name="Changes" comment="Testezao" />
+    <list default="true" id="06882a60-e26b-4ba7-9bad-3b30ccaf8a49" name="Changes" comment="Testezao">
+      <change afterPath="$PROJECT_DIR$/MaisUmTeste/model" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MaisUmTeste" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,10 +38,17 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/Desktop/Git e Github/Meu Projetos/TesteIntelig&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/Desktop/Git e Github/Meu Projetos/TesteIntelig/MaisUmTeste&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Operadores">
+    <configuration name="Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores" />
+      <module name="DeclaracaoVariaveis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SintaxeVars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SintaxeVars" />
       <module name="DeclaracaoVariaveis" />
@@ -49,6 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Operadores" />
         <item itemvalue="Application.SintaxeVars" />
       </list>
     </recent_temporary>
@@ -111,7 +121,35 @@
       <option name="project" value="LOCAL" />
       <updated>1676325493687</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Testezao">
+      <created>1676325894900</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676325894900</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Testezao">
+      <created>1676325972749</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676325972749</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Testezao">
+      <created>1676325994395</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676325994395</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Testezao">
+      <created>1676325998107</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676325998107</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
