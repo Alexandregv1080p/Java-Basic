@@ -5,5 +5,6 @@ public class SintaxeVars {
         boolean verdade = false;
         System.out.println("Nome: " + meuNome + " ano de fabricação: " + anoFabricao + " boolean: " + verdade);
         System.out.println("Teste");
+        System.out.println("Teste 2");
     }
 }
