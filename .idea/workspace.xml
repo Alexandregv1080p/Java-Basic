@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06882a60-e26b-4ba7-9bad-3b30ccaf8a49" name="Changes" comment="Escopo variáveis" />
+    <list default="true" id="06882a60-e26b-4ba7-9bad-3b30ccaf8a49" name="Changes" comment="Teste2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +15,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -26,12 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Usuario/Desktop/Git e Github/Meu Projetos/TesteIntelig"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="SintaxeVars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SintaxeVars" />
@@ -69,7 +76,35 @@
       <option name="project" value="LOCAL" />
       <updated>1676321102375</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Escopo variáveis">
+      <created>1676324963932</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676324963932</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Escopo variáveis">
+      <created>1676325056314</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676325056314</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Teste">
+      <created>1676325163019</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676325163019</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Teste2">
+      <created>1676325203937</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676325203937</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +120,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Escopo variáveis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Escopo variáveis" />
+    <MESSAGE value="Teste" />
+    <MESSAGE value="Teste2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste2" />
   </component>
 </project>
