@@ -7,5 +7,6 @@ public class SintaxeVars {
         System.out.println("Teste");
         System.out.println("Teste 2");
         System.out.println("Teste 3");
+        System.out.println("Teste 4");
     }
 }
