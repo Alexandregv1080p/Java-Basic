@@ -5,7 +5,8 @@ public class AnatoClass1 {
     }
     //tipoRetorno       NomeObj             Params
     public static String nomeCompleto(String fN, String sN){
-        return fN + " " + sN;
+        //return fN + " " + sN; primeira forma de concatenar
+        return "Resultado do método é : " + fN.concat(" ").concat(sN);
     }
 }
 
