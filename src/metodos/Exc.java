@@ -14,10 +14,10 @@ public class Exc {
             ligada = false;
         }
         public int mudarCanal(int a){
-            return canal += a;
+            return canal = a;
         }
-        public int aumentarVolume(int a) {
-            return volume += a;
+        public int aumentarVolume() {
+            return volume += 1;
         }
         public void info(){
             System.out.println("A televisão esta ligada? " + ligada);
@@ -30,8 +30,8 @@ public class Exc {
         Televisao televisao = new Televisao();
         televisao.ligar();
         televisao.mudarCanal(20);
-        televisao.aumentarVolume(15);
-        televisao.aumentarVolume(5);
+        televisao.aumentarVolume();
+        televisao.aumentarVolume();
         televisao.info();
     }
 

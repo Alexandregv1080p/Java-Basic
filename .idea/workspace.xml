@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06882a60-e26b-4ba7-9bad-3b30ccaf8a49" name="Changes" comment="Exercício de metodos">
-      <change afterPath="$PROJECT_DIR$/src/metodos/Exc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodos/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operadores/Ternario.java" afterDir="false" />
+    <list default="true" id="06882a60-e26b-4ba7-9bad-3b30ccaf8a49" name="Changes" comment="Desossei no exercício">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metodos/Exc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/metodos/Exc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676379709184</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Exercício de metodos">
+      <created>1676388290601</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676388290601</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +278,7 @@
     <MESSAGE value="Escopo de variáveis" />
     <MESSAGE value="Operadores" />
     <MESSAGE value="Exercício de metodos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício de metodos" />
+    <MESSAGE value="Desossei no exercício" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desossei no exercício" />
   </component>
 </project>
