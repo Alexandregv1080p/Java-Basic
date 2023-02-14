@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06882a60-e26b-4ba7-9bad-3b30ccaf8a49" name="Changes" comment="Desossei no exercício">
+      <change afterPath="$PROJECT_DIR$/src/escopo/EscopoVariaveis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanners/LendoTerminal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/metodos/Exc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/metodos/Exc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/Desktop/Git e Github/Meu Projetos/TesteIntelig&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exc">
+  <component name="RunManager" selected="Application.LendoTerminal">
     <configuration name="Exc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="metodos.Exc" />
       <module name="Variaveis-Classes-Operators" />
@@ -70,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metodos.Methods" />
+    <configuration name="LendoTerminal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanners.LendoTerminal" />
       <module name="Variaveis-Classes-Operators" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="metodos.*" />
+          <option name="PATTERN" value="scanners.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operadores.Operators" />
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodos.Methods" />
       <module name="Variaveis-Classes-Operators" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operadores.*" />
+          <option name="PATTERN" value="metodos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LendoTerminal" />
         <item itemvalue="Application.Exc" />
         <item itemvalue="Application.Methods" />
         <item itemvalue="Application.Ternario" />
         <item itemvalue="Application.Incremento" />
-        <item itemvalue="Application.Operators" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676388290601</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Desossei no exercício">
+      <created>1676404195524</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676404195554</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
