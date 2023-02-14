@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06882a60-e26b-4ba7-9bad-3b30ccaf8a49" name="Changes" comment="Escopo de variáveis">
-      <change afterPath="$PROJECT_DIR$/src/operadores/Incremento.java" afterDir="false" />
+    <list default="true" id="06882a60-e26b-4ba7-9bad-3b30ccaf8a49" name="Changes" comment="Exercício de metodos">
+      <change afterPath="$PROJECT_DIR$/src/metodos/Exc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operadores/Ternario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operadores/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operadores/Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +37,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Usuario/Desktop/Git e Github/Meu Projetos/TesteIntelig"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/Desktop/Git e Github/Meu Projetos/TesteIntelig&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Incremento">
+}</component>
+  <component name="RunManager" selected="Application.Exc">
+    <configuration name="Exc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodos.Exc" />
+      <module name="Variaveis-Classes-Operators" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metodos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Incremento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="operadores.Incremento" />
       <module name="Variaveis-Classes-Operators" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodos.Methods" />
+      <module name="Variaveis-Classes-Operators" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metodos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,26 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classes.AnatoClass1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.AnatoClass1" />
-      <module name="Variaveis-Classes-Operators" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="classes.Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.Operadores" />
-      <module name="Variaveis-Classes-Operators" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tiposVariaveis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tipos.variaveis.tiposVariaveis" />
+    <configuration name="Ternario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operadores.Ternario" />
       <module name="Variaveis-Classes-Operators" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tipos.variaveis.*" />
+          <option name="PATTERN" value="operadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exc" />
+        <item itemvalue="Application.Methods" />
+        <item itemvalue="Application.Ternario" />
         <item itemvalue="Application.Incremento" />
         <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.tiposVariaveis" />
-        <item itemvalue="Application.classes.AnatoClass1" />
-        <item itemvalue="Application.classes.Operadores" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676377803736</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Operadores">
+      <created>1676379709183</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676379709184</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,6 +271,8 @@
     <MESSAGE value="Anatomia de Class 1" />
     <MESSAGE value="Anatomia de Class 1 - 2" />
     <MESSAGE value="Escopo de variáveis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Escopo de variáveis" />
+    <MESSAGE value="Operadores" />
+    <MESSAGE value="Exercício de metodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício de metodos" />
   </component>
 </project>
