@@ -1,3 +1,5 @@
+package classes;
+
 public class SintaxeVars {
     public static void main(String[] args) {
         String meuNome = "Alexandre";
